@@ -1,8 +1,14 @@
 <h1 align="center">Hi 👋, I'm Nandakishore</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
+<!-- Banner Image -->
 <p align="center">
-  <img src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" alt="Banner" />
+  <img src="  " />
+</p>
+
+<!-- Side Image with Profile Details -->
+<p>
+  <img align="left" src="https://i.pinimg.com/736x/86/a1/21/86a121da9e20aaa56fd43cac35a367b7.jpg" alt="Side Image" width="300" style="margin-right: 15px;" />
 </p>
 
 <p align="left"> 
