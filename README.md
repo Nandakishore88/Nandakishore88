@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Data Analyst</h3>
 
 <!-- Banner Image -->
-<p align="[center">
-  <img src="https://www.vecteezy.com/photo/46247571-man-in-glasses-gazes-at-a-futuristic-screen-in-electric-blue-cityscape" />
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH93byybJYe1RNLF06ob1Y0YNMBnPOwLt8Yg&s" />
 </p>
 
 <!-- Side Image with Profile Details -->
