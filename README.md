@@ -1,7 +1,7 @@
-https://www.shutterstock.com/image-vector/data-science-banner-web-icon-computer-1567366987
+https://i.pinimg.com/474x/6a/45/5c/6a455ce5d7d16820af50d05d8b05bc0f.jpg
 <h1 align="center">Hi 👋, I'm Nandakishore</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-https://www.artstation.com/artwork/G5OZ3
+https://www.pinterest.com/pin/197314027417513277/
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandakishore88&label=Profile%20views&color=0e75b6&style=flat" alt="nandakishore88" /> </p>
 
