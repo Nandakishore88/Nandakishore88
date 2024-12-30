@@ -1,7 +1,7 @@
 https://i.pinimg.com/474x/6a/45/5c/6a455ce5d7d16820af50d05d8b05bc0f.jpg
 <h1 align="center">Hi 👋, I'm Nandakishore</h1>
 <h3 align="center">A passionate Data Analyst</h3>
-https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif
+https://cdn.mos.cms.futurecdn.net/VFLt5vHV7aCoLrLGjP9Qwm-1200-80.jpg
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandakishore88&label=Profile%20views&color=0e75b6&style=flat" alt="nandakishore88" /> </p>
 
