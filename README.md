@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="[center">
-  <img src="" />
+  <img src="https://www.vecteezy.com/photo/46247571-man-in-glasses-gazes-at-a-futuristic-screen-in-electric-blue-cityscape" />
 </p>
 
 <!-- Side Image with Profile Details -->
