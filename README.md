@@ -2,8 +2,8 @@
 <h3 align="center">A passionate Data Analyst</h3>
 
 <!-- Banner Image -->
-<p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUnfRiJrOE-fNsMkavZLpLIlRemc7162SCNw&s" />
+<p align="[center">
+  <img src="" />
 </p>
 
 <!-- Side Image with Profile Details -->
