@@ -3,7 +3,7 @@
 
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRH93byybJYe1RNLF06ob1Y0YNMBnPOwLt8Yg&s" />
+  <img src="https://i.pinimg.com/736x/d1/c3/44/d1c344a1f6c3ed733aa4a08ad49371c3.jpg" />
 </p>
 
 <!-- Side Image with Profile Details -->
